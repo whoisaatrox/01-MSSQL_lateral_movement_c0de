@@ -1,0 +1,3 @@
+C:\Users\tuoke\Desktop\OSEP-Code-Snippets-main\OSEP-Code-Snippets-main\MSSQL\obj\x64\Release\MSSQL.csproj.AssemblyReference.cache
+C:\Users\tuoke\Desktop\OSEP-Code-Snippets-main\OSEP-Code-Snippets-main\MSSQL\obj\x64\Release\MSSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuoke\Desktop\OSEP-Code-Snippets-main\OSEP-Code-Snippets-main\MSSQL\obj\x64\Release\MSSQL.csproj.CoreCompileInputs.cache
